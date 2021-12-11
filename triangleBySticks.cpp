@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   int T, N, M, O;
-  system("clear"); //If you using Windows operating system, please change the code into system("cls");
+  system("clear"); //If you are using Windows operating system, please change the code into system("cls");
   cin>>T;
   string arr[T];
   if(T >= 1 && T <= 100) {
