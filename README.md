@@ -18,6 +18,6 @@ A triangle is valid if sum of its two sides is greater than the third side. If t
 
 # Preview
 * First input value represent how much the test will run.
-* Next input is how long each stick will check the validity to build a triangle (each test need three times input).
+* Next input is how length each stick will check the validity to build a triangle (each test need three times input).
 * Output for each test will return between "Yes" if they are valid or "No" if they are invalid.
 * Done. 
