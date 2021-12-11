@@ -6,7 +6,7 @@ int main() {
   int T, N, M, O;
   system("clear"); //If you using Windows operating system, please change the code into system("cls");
   cin>>T;
-  string arr[T] = {};
+  string arr[T];
   if(T >= 1 && T <= 100) {
     for(int i = 0; i < T; i++) {
       cin>>N>>M>>O;
